@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethelfz
 - 👀 I’m interested in el desarrollo web
-- 🌱 I’m currently learning esta cuenta 
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT FIBERBASE POSGRESQL
 - 💞️ I’m looking to collaborate on desarrolladores frontend o backend
 - 📫 How to reach me ...
 
